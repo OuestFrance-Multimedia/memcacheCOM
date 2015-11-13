@@ -1,0 +1,10 @@
+\\pluton\inetC#\memcacheCOM\memcacheCOM\bin\Debug\memcacheCOM.dll
+\\pluton\inetC#\memcacheCOM\memcacheCOM\bin\Debug\memcacheCOM.pdb
+\\pluton\inetC#\memcacheCOM\memcacheCOM\obj\Debug\ResolveAssemblyReference.cache
+\\pluton\inetC#\memcacheCOM\memcacheCOM\obj\Debug\memcacheCOM.dll
+\\pluton\inetC#\memcacheCOM\memcacheCOM\obj\Debug\memcacheCOM.pdb
+\\pluton\inetC#\memcacheCOM\memcacheCOM\bin\Release\memcacheCOM.dll
+\\pluton\inetC#\memcacheCOM\memcacheCOM\bin\Release\memcacheCOM.pdb
+\\pluton\inetC#\memcacheCOM\memcacheCOM\obj\Release\ResolveAssemblyReference.cache
+\\pluton\inetC#\memcacheCOM\memcacheCOM\obj\Release\memcacheCOM.dll
+\\pluton\inetC#\memcacheCOM\memcacheCOM\obj\Release\memcacheCOM.pdb
